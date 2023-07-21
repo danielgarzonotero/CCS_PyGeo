@@ -1,1 +1,1 @@
-# CCS_PyGeo
+# Lipophilicity_PyGeo
