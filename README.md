@@ -1,5 +1,7 @@
 # CCS_PyGeo
 
+<img width="862" alt="image" src="https://github.com/danielgarzonotero/CCS_PyGeo/assets/122416545/db064d8e-9792-4973-bf03-0a20e2a6b9b3">
+
 This study focuses on the exploration and development of a Graph Convolutional Neural Network (GCNN) model
 for accurately predicting Collision Cross-Section (CCS) and Retention Time (RT) values of peptides. The datasets
 used in this study are derived from the works conducted by Meier et al. and Rosenberger et al. The model
