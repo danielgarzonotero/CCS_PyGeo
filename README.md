@@ -19,7 +19,11 @@ property prediction model.
 
 1) Meier, F.; Köhler, N. D.; Brunner, A.-D.; Wanka, J.-M. H.; Voytik, E.; Strauss, M. T.; Theis, F. J.; Mann, M. Deep Learning the Collisional Cross Sections of the
 Peptide Universe from a Million Experimental Values. Nat Commun 2021, 12 (1), 1185. https://doi.org/10.1038/s41467-021-21352-8.
-  
+
+# Results 
+
+<img width="454" alt="image" src="https://github.com/danielgarzonotero/CCS_PyGeo/assets/122416545/e1af57f3-d9b6-4872-9142-cb9f387a524e">
+
 # Acknowledgments
 I would like to express my gratitude to [Dr. Camille Bilodeau](https://github.com/cbilodeau2) for her excellent mentorship and insightful
 discussions, which have greatly enriched the learning experience throughout this study. I would also like to extend
